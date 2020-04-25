@@ -15,9 +15,9 @@
     7. Negotiation & Accept the offer
   * GTM Strategies
 
-  ### Partner Power Hour
-  How to make yourself Hirable and Desirable - Kris Minkel
+### Partner Power Hour
+How to make yourself Hirable and Desirable - Kris Minkel
 
-  ### Data Structure 2 - Stack & Queue
-    * Stack: First In Last Out (FILO). It can be implemented with ES6 class. It has two properties - head, storage. We can use array for storage and use array's push and pop methods to implement stack's push and pop methods.
-    * Queue: First In First Out (FIFO). It can be implemented with ES6 class. It has three properties - head, rear, and storage. We can use array for storage. 
+### Data Structure 2 - Stack & Queue
+  * Stack: First In Last Out (FILO). It can be implemented with ES6 class. It has two properties - head, storage. We can use array for storage and use array's push and pop methods to implement stack's push and pop methods.
+  * Queue: First In First Out (FIFO). It can be implemented with ES6 class. It has three properties - head, rear, and storage. We can use array for storage. 
