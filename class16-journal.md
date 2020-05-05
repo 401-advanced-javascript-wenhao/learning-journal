@@ -1,4 +1,4 @@
-# Class 16 - Event Driven Applications
+# Class 16 - Event Driven Applications - 5/4/2020
 
 * Everything in JS is an object. Arrays, functions, documents, windows are all objects.
 * Most action in JS are event driven.
