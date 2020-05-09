@@ -29,4 +29,4 @@ Today, we went through materials we have learned in past 4 weeks before we move 
   * Message Queues Server
   * Real Time VS Message Queues
   * TDD Demo
-  * Whiteboard Demo
+  * Whiteboarding Demo
