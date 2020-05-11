@@ -7,6 +7,10 @@
 * Class Logistics
   * Zoom Lectures - https://zoom.us/j/91562445831
   * Remo Lab - https://live.remo.co/e/code-fellows-labtime
+  * Week1 - Week4: Back-end development
+  * Week5: Midterm Project - Backend Project
+  * Week6 - Week9: Front-end development
+  * Week10: Final Project
 
 ## Node.js
 * Open source framework with V8 javascript runtime engine
