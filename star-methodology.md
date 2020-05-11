@@ -1,6 +1,6 @@
 # Star Methodology
 
-## Question: What is one of your greatest accomplishment?
+## Question: What is one of your greatest accomplishments?
 
 * Situation
 I came to U.S. 8 years ago for my academic goal and it was really open my eyes. I saw myself better future and opportunity here in the U.S. But I had to leave U.S. after completion of degree by regulations. I found a program called MAVNI that gives me a path to gain citizenship through military service. But most of recruiters were't familiar with this pilot program and the program was temporarily closed for the fiscal year and they only recruit 20 people for my language in my region.
