@@ -1,4 +1,4 @@
-# Class 34 - `<Login />` and `<Auth \>`  
+# Class 34 - `<Login />` and `<Auth \>` - 5/29/2020
 
 * Authentication - valid user is logged in  
 * Authorization - what permissions does the user have 
