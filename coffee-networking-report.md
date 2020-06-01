@@ -1,0 +1,3 @@
+# Coffee Networking Report - 5/31/2020  
+
+I talked with Chun Jiang recently, she works at Amazon as AWS support Engineer. She shared her application process and hiring process experiece. I learned that despite the COVID19 situation, Amazon still needs a lot of software engineers and cloud support since they are expanding the AWS section. She suggested me that keep learning new technology hard, updating resume and apply for a position I am interested in, and she would like to refer me internally. I will keep in touch with her and apply for a SDE position in the near future. 
