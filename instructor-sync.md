@@ -6,7 +6,7 @@
 2. Are there any areas of concern, questions about the course or adjustments we might consider?
    N/A
 
-3. What professional proficiency would you consider to be your top strength?
+3. What professional proficiency would you consider to be your top strength?  
    Autonomous, customer-oriented, collaboration
 
 4. What are of professional competency would you like to improve?
